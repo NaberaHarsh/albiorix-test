@@ -1,0 +1,13 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.marginInput {
+  margin: 10px 0px;
+}
+
+.error {
+  color: red;
+  text-align: left;
+}
